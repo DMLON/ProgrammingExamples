@@ -1,0 +1,9 @@
+def min_distance(list)
+  # Your solution
+end
+
+
+if $PROGRAM_NAME == __FILE__
+  # Code written here or in other files will be ignored by the automated tests.
+  # You can run this code when running the file with `ruby min-distance.rb`
+end

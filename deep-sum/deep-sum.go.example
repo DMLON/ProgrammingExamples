@@ -1,0 +1,14 @@
+package main
+
+func DeepSum(lst []interface{}) int {
+	/*
+	 * Your solution
+	 */
+}
+
+func main() {
+	/*
+	 * Code written here or in other files will be ignored by the automated tests.
+	 * You can run this code when running the file with `go run deep-sum.go`
+	 */
+}

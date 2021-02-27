@@ -1,0 +1,14 @@
+package main
+
+func Accumulator(reducer func(int, int) int, init int) func(int) int {
+	/*
+	 * Your solution
+	 */
+}
+
+func main() {
+	/*
+	 * Code written here or in other files will be ignored by the automated tests.
+	 * You can run this code when running the file with `go run accumulator.go`
+	 */
+}

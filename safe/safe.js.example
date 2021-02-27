@@ -1,0 +1,14 @@
+function finalValue(movements = []) {
+  /**
+   * Your solution
+   */
+}
+
+module.exports = { finalValue }
+
+if (require.main === module) {
+  /*
+   * Code written here or in other files will be ignored by the automated tests.
+   * You can run this code when running the file with `node safe.js`
+	 */
+}
